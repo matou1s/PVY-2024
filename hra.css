@@ -1,0 +1,72 @@
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+    font-size: 18px;
+    background-color: #000000;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    color: rgb(0, 0, 0);
+    max-width: 350px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu li {
+    text-align: center;
+    margin-bottom: 10px;
+    border: 2px solid #3498db; 
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.menu li a {
+    display: block;
+    padding: 30px 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu li a:hover {
+    background-color: #f0f0f0;
+}
+
+.hrát {
+    background-color: #3498db;
+    color: rgb(0, 0, 0);
+}
+
+.přihlášení {
+    background-color: #2ecc71;
+    color: rgb(0, 0, 0);
+}
+
+.obrazek {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.malo {
+    width: 500px;
+    height: 700px;
+}
+
+  
+
+
+
+
